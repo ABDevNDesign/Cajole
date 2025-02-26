@@ -16,9 +16,9 @@ Welcome to the **Streaming Widget** project by **AB Dev N Design**. This widget 
 - **Leaderboard:** Live updating leaderboard replicating the campaign page’s standings.
 
 ## Project Resources
-
-- **Company:** AB Dev N Design  
-- **Website:** [abdevndesign.com](https://abdevndesign.com)
+  **Developer:** AB Dev N Design  
+- **Company:** Cajole  
+- **Website:** [cajole.com](https://cajole.com)
 - **Figma Design:** [Cajole Working File](https://www.figma.com/design/ALCuCQWHKd84Ju3gP77ihc/Cajole---Working-File?node-id=71-1506&p=f&t=3GCXCQp9bpdlDX2H-0)
 - **Reference Widget:** [GoFundMe Streaming Widget Beta](https://support.gofundme.com/hc/en-us/articles/30297868605595-Amplify-your-GoFundMe-on-your-next-stream-GoFundMe-Streaming-Widgets-Beta)
 
