@@ -1,3 +1,6 @@
+# Hey david i put this together for now and future projects as well this will be like a main communication gateway for us to stay in contact without being restricted to a time. whenever you read this give me a call so i can walk you through how this works. Its a private repository so you can choose who can see what. 
+
+
 # Cajole
 Web Extension 
 
